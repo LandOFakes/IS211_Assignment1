@@ -3,7 +3,7 @@
 
 # In[4]:
 
-
+if __name__ == "__main__":
 class ListDivideException(Exception):
     pass
 def list_divide (numbers, divide=2):
